@@ -1,13 +1,13 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+theme: minima
+title: Biblioteca Vkirtual Graciela Hierro
+author: Adela H.R.
+email: adelahernandezva@aragon.unam.mx
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ Esta biblioteca virtual tiene como objetivo preservar la memoria de la biblioteca feminista de Graciela Hierro que ninguna institución quiso resguardar sus libros
+ porque el tema de las mujeres, poco importa. 
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+twitter_username: Hermanita_ # DO NOT include the @ character, or else the build will fail!
+github_username:  maria-adela-hernandez-reyes # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
